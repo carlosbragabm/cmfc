@@ -12,6 +12,7 @@ A idéia desse projeto é desenvolver um App para as alunas do Curso Marmita Fit
 - Controle de Estoque
 - Controle de Compras
 - [Como Fazer Marmita Fit Para Vender](https://naturezaesaude.eco.br/curso-marmita-fit-congelada)
+- [Embalagems Para Marmita Fit](https://naturezaesaude.eco.br/embalagem-para-marmita-fit)
 
 **Saiba Mais Sobre o _Curso_ _Marmita_ _FIT_ _Congelada_**
 
